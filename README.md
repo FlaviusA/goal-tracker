@@ -22,11 +22,9 @@ Obiectivele personale și academice se pierd ușor între liste de task-uri, cal
 
 | Membru | Rol principal | Responsabilități |
 |---|---|---|
-| Flavius A. | _de completat_ | _de completat_ |
-| _Membru 2_ | _de completat_ | _de completat_ |
-| _Membru 3_ | _de completat_ | _de completat_ |
+| Flavius A. | Backend și bază de date| API REST (Spring Boot), autentificare JWT, modelul de date PostgreSQL, endpoint-urile pentru obiective, task-uri și statistici, teste pe serviciul de statistici|
+| Raul Chiciudean | Frontend | Interfața React: login, dashboard, pagini de obiective și task-uri, cronometru, conectarea la API |
 
-> Completați tabelul. Fiecare membru trebuie să-și poată prezenta și justifica contribuția la prezentarea orală.
 
 ## Funcționalități propuse
 
