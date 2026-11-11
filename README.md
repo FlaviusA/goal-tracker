@@ -1,6 +1,6 @@
 # Goal Tracker
 
-Aplicație web pentru urmărirea obiectivelor și a task-urilor: utilizatorul își definește obiective, le descompune în task-uri cu timp estimat, își măsoară timpul real, vede progresul și primește statistici lunare și anuale..
+Aplicație web pentru urmărirea obiectivelor și a task-urilor: utilizatorul își definește obiective, le descompune în task-uri cu timp estimat, își măsoară timpul real, vede progresul și primește statistici lunare și anuale.
 
 ## Problema abordată
 
