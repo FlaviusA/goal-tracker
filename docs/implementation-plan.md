@@ -37,13 +37,13 @@
 
 | Zonă | Responsabil |
 |---|---|
-| Backend: autentificare și securitate | _de completat_ |
-| Backend: obiective, task-uri, timp | _de completat_ |
-| Backend: statistici și teste | _de completat_ |
-| Frontend: autentificare, dashboard | _de completat_ |
-| Frontend: obiective, task-uri, cronometru | _de completat_ |
-| Frontend: statistici și grafice | _de completat_ |
-| Documentație, wireframe-uri, prezentare | _de completat_ |
+| Backend: autentificare și securitate | _Flavius/Raul_ |
+| Backend: obiective, task-uri, timp | _Flavius_ |
+| Backend: statistici și teste | _Flavius_ |
+| Frontend: autentificare, dashboard | _Raul_ |
+| Frontend: obiective, task-uri, cronometru | _Raul_ |
+| Frontend: statistici și grafice | _Raul_ |
+| Documentație, wireframe-uri, prezentare | _Flavius_ |
 
 ## Riscuri
 
