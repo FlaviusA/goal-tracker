@@ -1,6 +1,6 @@
 # Wireframe-uri
 
-Wireframe-urile de mai jos sunt schițe low-fidelity în text. Dacă faceți variante în Figma sau pe hârtie, puneți imaginile în acest folder și adăugați linkuri aici.
+Wireframe-urile de mai jos sunt schițe low-fidelity în text. Ulterior vom adauga wireframe-uri in figma 
 
 ## Flux de navigare
 
