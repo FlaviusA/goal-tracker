@@ -10,7 +10,7 @@
 | Chart.js | Grafice simple, suficiente pentru statistici lunare și anuale. |
 | Docker Compose | Pornirea bazei de date și a aplicației identic pe toate calculatoarele echipei. |
 
-> Dacă echipa preferă alt stack (de exemplu Python cu FastAPI sau PHP cu Laravel), schimbați acest tabel și restul documentelor rămân valabile, fiindcă modelul de date și API-ul nu depind de limbaj.
+
 
 ## Strategia de versionare
 
