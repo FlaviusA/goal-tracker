@@ -26,7 +26,7 @@ Prioritizare MoSCoW: **M** = obligatoriu, **S** = important, **C** = dorit dacă
 
 | ID | Cerință | Prioritate |
 |---|---|---|
-| NFR-01 | Parolele se stochează hash-uite (BCrypt), niciodată în clar. | M |
+| NFR-01 | Parolele se stochează hash-uite (BCrypt), niciodată în plaintext. | M |
 | NFR-02 | Fiecare utilizator vede doar datele proprii. | M |
 | NFR-03 | Paginile principale se încarcă în sub 2 secunde pe o conexiune normală. | S |
 | NFR-04 | Interfața este utilizabilă pe desktop și pe telefon (design responsiv). | S |
